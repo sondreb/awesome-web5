@@ -44,7 +44,7 @@ A curated list of Web5 projects, resources, apps and more.
 
 ## Community
 
-- [TBD Discord](https://developer.tbd.website/img/discord-icon.svg)
+- [TBD Discord](https://discord.gg/tbd)
 - [Blockcore Discord](https://www.blockcore.net/discord)
 
 Data for this list is contributed by the community and curated by [@sondreb](https://sondreb.com).
