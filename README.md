@@ -18,12 +18,8 @@ A curated list of Web5 projects, resources, apps and more.
 ## Wallets
 
 - [@TBD54566975/web5-wallet](https://github.com/TBD54566975/web5-wallet)![stars](https://img.shields.io/github/stars/TBD54566975/web5-wallet.svg?style=social) (iOS/Android) - Web5 Wallet Built with React Native and Expo
-
 - [@block-core/blockcore-wallet](https://github.com/block-core/blockcore-wallet)![stars](https://img.shields.io/github/stars/block-core/blockcore-wallet.svg?style=social) (Extension/Web) - Multi wallet browser extension with Web5 support
-
 - [Sphereon Wallet](https://sphereon.com/sphereon-products/sphereon-wallet/)  (iOS/Android) - Feature rich verifiable credentials wallet
-
-
 
 ## Apps
 
@@ -33,9 +29,7 @@ A curated list of Web5 projects, resources, apps and more.
 
 - [GitHub: TBD54566975](https://github.com/TBD54566975/) - TBD's GitHub
     - [web5.js](https://github.com/TBD54566975/web5-js)![stars](https://img.shields.io/github/stars/TBD54566975/web5-js.svg?style=social) - An SDK for building decentralized web apps with DIDs, VCs, and DWNs.
-
 - [GitHub: Blockcore](https://github.com/block-core/) - Blockcore's GitHub
-
 - [YouTube: Volodymyr Pavlyshyn](https://www.youtube.com/@VolodymyrPavlyshyn) - Many videos on Web5 topics.
 
 ## Protocol
